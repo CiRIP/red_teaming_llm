@@ -1,3 +1,9 @@
 langchain
 langchain-community
 ipywidgets
+pandas
+numpy
+scikit-learn
+seaborn
+tikzplotlib
+scipy

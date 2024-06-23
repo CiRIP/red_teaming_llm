@@ -1,0 +1,17 @@
+model,size,base
+Qwen2-72B-Instruct,72.7,qwen2
+codegemma-7b-it,8.54,gemma
+WizardLM-2-8x22B,141,mixtral
+WizardLM-2-7B,7.24,mistral
+Meta-Llama-3-8B-Instruct,8.03,llama3
+gemma-1.1-7b-it,8.54,gemma
+Phind-CodeLlama-34B-v2,33.7,llama2
+Phi-3-medium-4k-instruct,14,phi3
+Mixtral-8x7B-Instruct-v0.1,46.7,mixtral
+Qwen2-7B-Instruct,7.62,qwen2
+Mistral-7B-Instruct-v0.2,7.24,mistral
+Mixtral-8x22B-Instruct-v0.1,141,mixtral
+Meta-Llama-3-70B-Instruct,70.6,llama3
+Mistral-7B-Instruct-v0.3,7.24,mistral
+dolphin-2.6-mixtral-8x7b,46.7,mixtral
+starcoder2-15b-instruct-v0.1,16,starcoder2
